@@ -3,7 +3,7 @@ body{
     overflow: hidden;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 /*     background: conic-gradient(at 125% 50%, #b78cf7, #ff7c94, #ffcf0d, #ff7c94, #b78cf7); */
-    background:red;
+    background-color:red;
 }
 
 .container{
